@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: shofi
+Build-Jdk: 10.0.2
+Implementation-Title: Assignment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: assignment.leads
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Assignment.customer
+Created-By: Maven Integration for Eclipse
+
